@@ -1,6 +1,7 @@
 # tvrename
 Automatically exported from code.google.com/p/tvrename
 
+Ripoff of the original project TVrename project
 
 
 Project Description
